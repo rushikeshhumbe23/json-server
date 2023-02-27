@@ -1,5 +1,12 @@
 {
-  "users":[],
+  "users":[{
+    "id":1,
+    "first_name":"Rushikesh",
+    "last_name":"Humbe",
+    "email":"rushikeshhumb23@gmail.com",
+    "profile":"https://media.licdn.com/dms/image/C4E03AQE8EutH2lY-VA/profile-displayphoto-shrink_100_100/0/1661089820244?e=1683158400&v=beta&t=1XimjISm4WYLWLI0MOvRsi6ctsi2nyX8P6zmei1N0Co",
+    "password":"Rushi@231"
+  }],
   "products": [
     {
     "id": 1,
